@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppXChange.ConnectorCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "provision -h"
+    }
+  }
+}
